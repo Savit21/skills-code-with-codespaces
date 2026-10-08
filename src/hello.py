@@ -1,2 +1,1 @@
-print("Hello!")
-print("Welcome to codespace!!!")
+print("Hello World!")
